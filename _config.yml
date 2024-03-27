@@ -1,0 +1,6 @@
+title: "NSF Language Science Workshop"
+description: "New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language"
+baseurl: ""
+markdown: kramdown
+include: ["_pages"]
+ga_id: UA-144588579-1
