@@ -162,12 +162,12 @@ More details coming soon.
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.columbia.edu/~kathy/">
-      <img class="people-pic" src="https://ml.ucsb.edu/sites/default/files/Kathleen%20McKeown.jpeg">
+    <a href="https://annargrs.github.io/">
+      <img class="people-pic" src="https://annargrs.github.io/assets/images/aro.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.columbia.edu/~kathy/">Kathleen McKeown</a>
-      <h6>Columbia University</h6>
+      <a href="https://annargrs.github.io/">Anna Rogers</a>
+      <h6>IT University of Copenhagen</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -222,15 +222,6 @@ More details coming soon.
     <div class="people-name">
       <a href="https://ishita-dg.github.io/">Ishita Dasgupta</a>
       <h6>DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://annargrs.github.io/">
-      <img class="people-pic" src="https://annargrs.github.io/assets/images/aro.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://annargrs.github.io/">Anna Rogers</a>
-      <h6>IT University of Copenhagen</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -297,28 +288,7 @@ More details coming soon.
 <!-- NSF -->
 <div class="row" id="nsf">
   <div class="col-xs-12">
-    <h2>NSF Program Directors</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.miltsakaki.com/">
-      <img class="people-pic" src="https://www.choosito.com/images/eleni.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.miltsakaki.com/">Eleni Miltsakaki</a>
-      <h6>University of Pennsylvania</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://people.clas.ufl.edu/jvaldeskroff/">
-      <img class="people-pic" src="https://media.licdn.com/dms/image/C4E03AQHnkLfdJHWaeg/profile-displayphoto-shrink_800_800/0/1651612537643?e=2147483647&v=beta&t=QYTJUdpA1jroR7LxoDa4sOiODg9a6V-rq-zr0dIoU50">
-    </a>
-    <div class="people-name">
-      <a href="https://people.clas.ufl.edu/jvaldeskroff/">Jorge Valdés Kroff</a>
-      <h6>University of Florida</h6>
-    </div>
+    <p>With Support from the Linguistics, Robust Intelligence, and Science of Learning and Augmented Intelligence Programs at NSF.</p>
   </div>
 </div>
 
