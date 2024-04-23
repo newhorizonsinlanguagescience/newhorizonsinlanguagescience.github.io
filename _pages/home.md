@@ -47,9 +47,13 @@ Three thematic questions will be targeted:
 <li>What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
         </p>
         <p>
-The two-day schedule will be roughly divided into four half-day blocks. During the first three blocks, each of the above thematic questions will be explored. The topic will be introduced by one of the organizers, and this introduction will be followed by several presentations from invited speakers and a subsequent panel discussion. In the fourth block, the workshop will focus on synthesis: brainstorming and integrating ideas from across the workshop's sections and themes, culminating in a plan to produce a white paper informing future research and policymaking.
+The two-day schedule will be roughly divided into four half-day blocks. During the first three blocks, each of the above thematic questions will be explored. The topic will be introduced by one of the organizers, and this introduction will be followed by several presentations from invited speakers and a subsequent panel discussion. In the fourth block, the workshop will focus on synthesis: brainstorming and integrating ideas from across the workshop's sections and themes, culminating in a white paper informing future research and policymaking.
         </p><p>
 The detailed schedule can be found below, along with the list of speakers, commentators, and organizers.
+        </p><p>
+<b>How can I attend the workshop?</b>
+        </p><p>
+<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ">Register</a> for the Zoom webinar! The three topic discussions will be open to the public, including moderation and opportunities for Q&A.
         </p>
     </div>
 </div>
@@ -211,6 +215,15 @@ More details coming soon.
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
+    <a href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">
+      <img class="people-pic" src="https://www.gmu.edu/sites/g/files/yyqcgq291/files/2023-09/Antonios-Anastasopoulos-1x1.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">A. Anastasopoulos</a>
+      <h6>George Mason</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="https://pages.ucsd.edu/~bkbergen/">
       <img class="people-pic" src="https://pages.ucsd.edu/~bkbergen/assets/img/team/team2.jpg">
     </a>
@@ -226,6 +239,15 @@ More details coming soon.
     <div class="people-name">
       <a href="https://ishita-dg.github.io/">Ishita Dasgupta</a>
       <h6>DeepMind</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://lti.cmu.edu/people/faculty/diab-mona.html">
+      <img class="people-pic" src="https://scsdean.cs.cmu.edu/new-faculty/resources/2023/mona_diab1.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="https://lti.cmu.edu/people/faculty/diab-mona.html">Mona Diab</a>
+      <h6>Carnegie Mellon</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -253,6 +275,15 @@ More details coming soon.
     <div class="people-name">
       <a href="https://mahowak.github.io/">Kyle Mahowald</a>
       <h6>UT Austin</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://tallinzen.net/">
+      <img class="people-pic" src="https://pbs.twimg.com/profile_images/1774996720985784320/j936cGwU_400x400.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://tallinzen.net/">Tal Linzen</a>
+      <h6>NYU</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
