@@ -47,13 +47,13 @@ Three thematic questions will be targeted:
 <li>What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
         </p>
         <p>
-The two-day schedule will be roughly divided into four half-day blocks. During the first three blocks, each of the above thematic questions will be explored. The topic will be introduced by one of the organizers, and this introduction will be followed by several presentations from invited speakers and a subsequent panel discussion. In the fourth block, the workshop will focus on synthesis: brainstorming and integrating ideas from across the workshop's sections and themes, culminating in a white paper informing future research and policymaking.
+For each theme, the topic will be introduced by one of the organizers, and this introduction will be followed by several presentations from invited speakers and a subsequent panel discussion. The workshop will be finalized by a synthesis session, integrating ideas from across the workshop's sections and themes.
         </p><p>
-The detailed schedule can be found below, along with the list of speakers, commentators, and organizers.
+The schedule can be found below, along with the list of speakers, commentators, and organizers.
         </p><p>
 <b>How can I attend the workshop?</b>
         </p><p>
-<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ">Register</a> for the Zoom webinar! The three topic discussions will be open to the public, including moderation and opportunities for Q&A.
+<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ">Register</a> for the Zoom webinar!
         </p>
     </div>
 </div>
@@ -70,7 +70,19 @@ The detailed schedule can be found below, along with the list of speakers, comme
 <div class="row">
     <div class="col-xs-12">
         <p>
-More details coming soon.
+Monday, May 13, Morning:
+<li>Theme 1: What insights do large language models provide for the study of human language?</li>
+        </p><p>
+Monday, May 13, Afternoon:
+<li>Theme 2: What insights does the study of human language provide for large language model development?</li>
+        </p><p>
+Tuesday, May 14, Morning:
+<li>Theme 3: What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
+        </p><p>
+Tuesday, May 14, Afternoon <em>(in-person only)</em>:
+<li>Synthesis & General Discussion</li>
+        </p><p>
+Specific timing information will be available soon.
         </p>
     </div>
 </div>
