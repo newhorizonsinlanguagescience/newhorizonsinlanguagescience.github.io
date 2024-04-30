@@ -97,7 +97,7 @@ Specific timing information will be available soon.
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://baulab.info/">
       <img class="people-pic" src="https://pbs.twimg.com/profile_images/1591452247417831424/nZA7ZHTB_400x400.jpg">
     </a>
@@ -106,7 +106,7 @@ Specific timing information will be available soon.
       <h6>Northeastern University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://gbegus.github.io/">
       <img class="people-pic" src="https://i1.rgstatic.net/ii/profile.image/916616921505792-1595549912902_Q512/Gasper-Begus.jpg">
     </a>
@@ -115,7 +115,25 @@ Specific timing information will be available soon.
       <h6>UC Berkeley</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://pages.ucsd.edu/~bkbergen/">
+      <img class="people-pic" src="https://pages.ucsd.edu/~bkbergen/assets/img/team/team2.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>
+      <h6>UC San Diego</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
+    <a href="https://rycolab.io/">
+      <img class="people-pic" src="https://reghorizon.com/wp-content/uploads/2021/09/2021-09_PCITURE_Ryan-Cotterell_400x400.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://rycolab.io/">Ryan Cotterell</a>
+      <h6>ETH Zürich</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4">
     <a href="https://cogandbrainlab.web.illinois.edu/">
       <img class="people-pic" src="https://i1.rgstatic.net/ii/profile.image/272344027496493-1441943284877_Q512/Kara-Federmeier.jpg">
     </a>
@@ -124,7 +142,7 @@ Specific timing information will be available soon.
       <h6>University of Illinois</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://psychology.princeton.edu/people/adele-goldberg">
       <img class="people-pic" src="https://scsb.mit.edu/wp-content/uploads/2023/01/Aeg.png">
     </a>
@@ -133,7 +151,7 @@ Specific timing information will be available soon.
       <h6>Princeton University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://en.cognitive.huji.ac.il/people/ariel-goldstein">
       <img class="people-pic" src="https://media.licdn.com/dms/image/C4E03AQEBe4RlgFwcxQ/profile-displayphoto-shrink_800_800/0/1659734482819?e=2147483647&v=beta&t=SvngEkx4mUVw3YcU77Ue3gP7Ncd1nc-uA414_0MNtnY">
     </a>
@@ -142,7 +160,7 @@ Specific timing information will be available soon.
       <h6>Hebrew University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.cs.utexas.edu/~huth/">
       <img class="people-pic" src="https://apps.jsg.utexas.edu/profiles/files/photos/alexander_huth_7939.jpg">
     </a>
@@ -151,7 +169,7 @@ Specific timing information will be available soon.
       <h6>UT Austin</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://anna-ivanova.net/">
       <img class="people-pic" src="https://anna-ivanova.net/authors/admin/avatar_hu25f4a9e666d17c082b8a8549985ea89e_3122326_270x270_fill_q75_lanczos_center.jpg">
     </a>
@@ -160,7 +178,7 @@ Specific timing information will be available soon.
       <h6>Georgia Tech</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://najoung.kim/">
       <img class="people-pic" src="https://pbs.twimg.com/profile_images/1458194786117115907/SEpjgHUb_400x400.jpg">
     </a>
@@ -169,7 +187,7 @@ Specific timing information will be available soon.
       <h6>Boston University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.mit.edu/~rplevy/">
       <img class="people-pic" src="https://bcs.mit.edu/sites/default/files/user-pics/Levy%2C%20Robert%20160114%20color%20resized.jpg">
     </a>
@@ -178,7 +196,7 @@ Specific timing information will be available soon.
       <h6>MIT</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://nlp.stanford.edu/~manning/">
       <img class="people-pic" src="https://nlp.stanford.edu/~manning/images/Christopher_Manning_027_1154x1154.jpg">
     </a>
@@ -187,7 +205,7 @@ Specific timing information will be available soon.
       <h6>Stanford University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://rtmccoy.com/">
       <img class="people-pic" src="https://pbs.twimg.com/profile_images/1071805675100143616/nesJ5YNM_400x400.jpg">
     </a>
@@ -196,7 +214,7 @@ Specific timing information will be available soon.
       <h6>Yale University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://www.cs.cmu.edu/~lwehbe/">
       <img class="people-pic" src="https://www.cmu.edu/ni/images/people-images/faculty-photos/lwehbe.jpg">
     </a>
@@ -205,7 +223,7 @@ Specific timing information will be available soon.
       <h6>Carnegie Mellon</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://ai.meta.com/people/1396973444287406/adina-williams/">
       <img class="people-pic" src="https://media.licdn.com/dms/image/C4D03AQFFk9Vwb-EtDA/profile-displayphoto-shrink_800_800/0/1538586786275?e=2147483647&v=beta&t=0jZ1ty7fAcQNwEelvGinfSooKRdahsV_h-XFDcV1xkM">
     </a>
@@ -226,25 +244,16 @@ Specific timing information will be available soon.
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">
       <img class="people-pic" src="https://www.gmu.edu/sites/g/files/yyqcgq291/files/2023-09/Antonios-Anastasopoulos-1x1.jpg">
     </a>
     <div class="people-name">
-      <a href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">A. Anastasopoulos</a>
+      <a href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">Antonios Anastasopoulos</a>
       <h6>George Mason</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://pages.ucsd.edu/~bkbergen/">
-      <img class="people-pic" src="https://pages.ucsd.edu/~bkbergen/assets/img/team/team2.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>
-      <h6>UC San Diego</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://ishita-dg.github.io/">
       <img class="people-pic" src="https://ishita-dg.github.io/scholar_photo.jpeg">
     </a>
@@ -253,7 +262,7 @@ Specific timing information will be available soon.
       <h6>DeepMind</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <!-- <div class="col-xs-6 col-lg-4">
     <a href="https://lti.cmu.edu/people/faculty/diab-mona.html">
       <img class="people-pic" src="https://scsdean.cs.cmu.edu/new-faculty/resources/2023/mona_diab1.jpeg">
     </a>
@@ -261,8 +270,8 @@ Specific timing information will be available soon.
       <a href="https://lti.cmu.edu/people/faculty/diab-mona.html">Mona Diab</a>
       <h6>Carnegie Mellon</h6>
     </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
+  </div> -->
+  <div class="col-xs-6 col-lg-4">
     <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">
       <img class="people-pic" src="https://staff.fnwi.uva.nl/r.fernandezrovira/web/raq-2022.png">
     </a>
@@ -271,7 +280,7 @@ Specific timing information will be available soon.
       <h6>University of Amsterdam</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://lauragwilliams.github.io/">
       <img class="people-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w5qDpIPiD2JPWmKkefuTOukD1EPLyjDlOGkKezZZiA&s">
     </a>
@@ -280,7 +289,7 @@ Specific timing information will be available soon.
       <h6>Stanford University</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://mahowak.github.io/">
       <img class="people-pic" src="https://mahowak.github.io/assets/img/kylefogo2.png">
     </a>
@@ -289,7 +298,7 @@ Specific timing information will be available soon.
       <h6>UT Austin</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://tallinzen.net/">
       <img class="people-pic" src="https://pbs.twimg.com/profile_images/1774996720985784320/j936cGwU_400x400.jpg">
     </a>
@@ -298,7 +307,7 @@ Specific timing information will be available soon.
       <h6>NYU</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://annargrs.github.io/">
       <img class="people-pic" src="https://annargrs.github.io/assets/images/aro.jpg">
     </a>
@@ -307,7 +316,7 @@ Specific timing information will be available soon.
       <h6>IT University of Copenhagen</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="https://psych.wisc.edu/staff/rogers-timothy-t/">
       <img class="people-pic" src="https://psych.wisc.edu/Rogers/tim1.jpg">
     </a>
@@ -316,7 +325,7 @@ Specific timing information will be available soon.
       <h6>University of Wisconsin</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-4">
     <a href="http://languagestats.com/jonwillits/about.html">
       <img class="people-pic" src="https://media.licdn.com/dms/image/C5603AQGglKakTJu-uw/profile-displayphoto-shrink_200_200/0/1532384550390?e=2147483647&v=beta&t=vUITuFN-dwNUwbOxHdjXuquuq0VBLgcfmXgOsiRyGXU">
     </a>
@@ -332,7 +341,7 @@ Specific timing information will be available soon.
 <!-- Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
-    <h2>Organizers & Student Liaison</h2>
+    <h2>Organizing Team</h2>
   </div>
 </div>
 
