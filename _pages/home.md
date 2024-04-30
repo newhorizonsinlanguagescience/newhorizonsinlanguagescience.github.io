@@ -53,7 +53,7 @@ The schedule can be found below, along with the list of speakers, commentators, 
         </p><p>
 <b>How can I attend the workshop?</b>
         </p><p>
-<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ">Register</a> for the Zoom webinar!
+<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank"><button>Register</button></a> for the Zoom webinar!
         </p>
     </div>
 </div>
