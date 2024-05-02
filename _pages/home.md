@@ -75,8 +75,7 @@ acknowledgements: ""
 
         </p><p>
 <a
-        href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank"><button>Register here</button></a> for the Zoom webinar!
-here</b></a> for the Zoom webinar!
+        href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank"><button><b>Register here</b></button></a> for the Zoom webinar!
     </p> </div> </div>
 
 <br />
