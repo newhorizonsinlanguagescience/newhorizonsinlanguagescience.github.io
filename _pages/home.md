@@ -144,7 +144,7 @@ acknowledgements: ""
     <td class="tg-0lax"><b>Lunch Break</b></td>
   </tr>
     <tr>
-    <td class="tg-0lax"><b>2:00–5:30pm</b></td>
+    <td class="tg-0lax"><b>2:00–5:00pm</b></td>
     <td class="tg-0lax"><b>Theme 2: What insights does the study of human language provide for large language model development?</b></td>
   </tr>
   <tr>
