@@ -65,17 +65,23 @@ acknowledgements: ""
 <li>What insights do large language models provide for the study of human language?</li>
 <li>What insights does the study of human language provide for large language model development?</li>
 <li>What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
-</ul>    
+</ul><p>    
     Join us on <b>May 13 and 14</b> via Zoom to learn more about what advances have been achieved in
     recent years regarding computational modeling of language
     structure and language processing in both artificial systems and
     the human mind & brain, what major open questions & challenges
     remain unsolved, and what key new opportunities are offered by the
-    rapidly advancing landscape! 
-
-        </p><p>
+    rapidly advancing landscape!
+</p><p>
+    One goal of this workshop is to produce a set of working papers 
+    that can help guide the future of research in language science.
+    Online participants will have an opportunity to pose questions and discuss with each other, 
+    which will form part of the collected materials to steer the working papers.
+</p>
+<p></p>
 <a
         href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank"><button><b>Register here</b></button></a> for the Zoom webinar!
+        Following the workshop, talks will be recorded and hosted for the public (link coming soon).
     </p> </div> </div>
 
 <br />
@@ -175,6 +181,8 @@ acknowledgements: ""
   </tr>   
 </tbody>
 </table>
+
+<br />
 
 <b>Tuesday, May 14:</b>
 
