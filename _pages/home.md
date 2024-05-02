@@ -111,8 +111,13 @@ acknowledgements: ""
 <!-- </thead> -->
 <tbody>
   <tr>
-    <td class="tg-0lax"><b>9:00–9:30am</b></td>
-    <td class="tg-0lax"><b>General opening remarks for the workshop</b></td>
+    <td class="tg-0lax"><b>9:00–9:10am</b></td>
+    <td class="tg-0lax"><b>Opening remarks by NSF leadership</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>9:10–9:30am</b></td>
+    <td class="tg-0lax"><b>Introductory remarks and orientation by
+    workshop organizers</b></td>
   </tr>
   <tr>
     <td class="tg-0lax"><b>9:30am–12:30pm</b></td>
@@ -206,7 +211,11 @@ acknowledgements: ""
   </tr>
     <tr>
     <td class="tg-0lax"><b>1:30–2:30pm</b></td>
-    <td class="tg-0lax"><b>Summative talks and closing</b></td>
+    <td class="tg-0lax"><b>Summative talks by workshop organizers</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>2:30–2:40pm</b></td>
+    <td class="tg-0lax"><b>Closing remarks by NSF leadership</b></td>
   </tr>
 </tbody>
 </table>
