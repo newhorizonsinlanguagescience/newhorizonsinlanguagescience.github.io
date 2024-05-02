@@ -11,81 +11,210 @@ acknowledgements: ""
 
 <br />
 
-<div class="row">
-    <div class="col-xs-12">
-        <p>
-This is a workshop dedicated to interdisciplinary connections between today’s large language models, language structure, and language processing in the human mind and brain. The nature of natural language structure and the mental and neural basis of how language is learned, understood, and produced have been perennial central questions in linguistics, computer science, cognitive science, and neuroscience. Historically, it has been a major challenge to develop implemented computational models that can generate and process language in anything approaching a human-like manner. 
-        </p><p>
-In recent years, however, this situation has been transformed by the impressive success of modern deep-learning technology: relatively simple artificial neural network architectures, when coupled with large-scale natural language corpora and computational software and hardware for training massive models with billions to hundreds of billions of parameters, learn to generate complex text of remarkable fluency and even seem to exhibit numerous "emergent" behaviors such as the ability to rhyme, metaphorical language use, and certain types of common-sense reasoning. Contemporary large language models (LLMs) achieve these successes despite—, or perhaps, because—of the fact that their internal representations, high-dimensional numeric embedding vectors, superficially seem to be very unlike the symbolic, hierarchical grammatical representations that have long been thought in linguistics and cognitive science to describe linguistic structure. Despite this apparent difference, the context-based word predictions of LLMs reflect complex aspects of linguistic structure and correlate with human behavioral responses, tree-structured grammatical representations of sentences can be decoded with surprising accuracy from neural language models' embeddings, and predictive models of high-dimensional brain responses can be derived from their internal representations of linguistic input.
-        </p><p>
-However, LLMs also exhibit numerous discrepancies from how humans acquire and process language. Their training data is not grounded in extra-linguistic sensory or social context; their inductive biases do not reflect features consistently found across languages of the world; their interpretive strategies can be fooled by superficial features of linguistic inputs; and their common-sense reasoning patterns are often unreliable and inconsistent. Symbolic approaches can yield superior performance on their own or in tandem with LLMs. Likewise, symbolic approaches to incremental parsing still hold important explanatory advantages over LLM-based approaches for understanding phenomena like ambiguity resolution, garden-pathing, and structural expectation violation in real-time human language processiong. Overall, while LLMs constitute remarkable technological advances, there are strong reasons to believe that they offer far from a complete picture of language devleopment and processing in the human mind and brain.
-        </p><p>
-This state of affairs calls for interdisciplinary discussion spanning the fields of machine learning & natural language processing, linguistics, neuroscience, and cognitive science to synthesize an understanding of exactly what advances have been achieved in recent years regarding computational modeling of language structure and language processing in both artificial systems and the human mind & brain, what major open questions & challenges remain unsolved, and what key new opportunities are offered by the rapidly advancing landscape.
-        </p>
-    </div>
-</div>
-
-<br />
-
-<hr />
-
-<!-- Format -->
-<div class="row" id="format">
-  <div class="col-xs-12">
-    <h2>Format</h2>
-  </div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12">
-        <p>
-This workshop will convene a diverse body of expert speakers for presentations, panel commentary, and focused group discussions.
-        </p><p>
-Three thematic questions will be targeted:
+<!-- Motivation -->
+<div class="row" id="motivation"> <div class="col-xs-12"> <p>
+    This is a workshop dedicated to interdisciplinary connections
+    between today’s large language models, language structure, and
+    language processing in the human mind and brain. The structure of
+    language, and the mental and neural basis of how it is learned,
+    understood, and produced, have been perennial central questions in
+    linguistics, computer science, cognitive science, and
+    neuroscience. Historically, it has been a major challenge to
+    develop implemented computational models that can generate and
+    process language in anything approaching a human-like manner.
+    </p><p> In recent years, however, this situation has been
+    transformed by the impressive success of modern deep-learning
+    technology: relatively simple artificial neural network
+    architectures, when coupled with large-scale natural language
+    corpora and computational software and hardware for training
+    massive models with billions to hundreds of billions of
+    parameters, learn to generate complex text of remarkable fluency
+    and even seem to exhibit numerous "emergent" behaviors such as the
+    ability to rhyme, metaphorical language use, and certain types of
+    common-sense reasoning. Contemporary large language models (LLMs)
+    achieve these successes even though–or perhaps,
+    <i>because</i>–their internal representations are high-dimensional
+    numeric embedding vectors that superficially seem to be very
+    unlike the symbolic, hierarchical grammatical representations
+    traditionally used to describe linguistic structure. Despite this
+    apparent difference, LLMs' context-based word predictions reflect
+    complex aspects of linguistic structure and correlate with human
+    behavioral responses, tree-structured grammatical representations
+    of sentences can be decoded with surprising accuracy from LLMs'
+    embeddings, and those embeddings can even be used to predict
+    high-dimensional brain responses during real-time language
+    comprehension.  </p><p> But language in LLMs is also very
+    different from language in humans. LLMs' training data is not
+    grounded in extra-linguistic sensory or social context; their
+    inductive biases do not always reflect common features found
+    across languages of the world; their interpretive strategies can
+    be fooled by superficial features of linguistic inputs; their
+    patterns in ambiguity management differ from humans; and their
+    common-sense reasoning patterns are often unreliable and
+    inconsistent. In some cases, symbolic approaches can still yield
+    superior performance on their own or in tandem with LLMs. Overall,
+    while LLMs constitute remarkable technological advances, there are
+    strong reasons to believe that they offer far from a complete
+    picture of language development and processing in the human mind
+    and brain.  </p><p> Inspired by this state of affairs, this
+    workshop offers interdisciplinary talks and discussion spanning
+    the fields of machine learning & natural language processing,
+    linguistics, neuroscience, and cognitive science, grouped into
+    three themes: 
+<ul>    
 <li>What insights do large language models provide for the study of human language?</li>
 <li>What insights does the study of human language provide for large language model development?</li>
 <li>What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
-        </p>
-        <p>
-For each theme, the topic will be introduced by one of the organizers, and this introduction will be followed by several presentations from invited speakers and a subsequent panel discussion. The workshop will be finalized by a synthesis session, integrating ideas from across the workshop's sections and themes.
+</ul>    
+    Join us on <b>May 13 and 14</b> via Zoom to learn more about what advances have been achieved in
+    recent years regarding computational modeling of language
+    structure and language processing in both artificial systems and
+    the human mind & brain, what major open questions & challenges
+    remain unsolved, and what key new opportunities are offered by the
+    rapidly advancing landscape! 
+
         </p><p>
-The schedule can be found below, along with the list of speakers, commentators, and organizers.
-        </p><p>
-<b>How can I attend the workshop?</b>
-        </p><p>
-<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ">Register</a> for the Zoom webinar!
-        </p>
-    </div>
-</div>
+<a
+href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ"><b>Register
+here</b></a> for the Zoom webinar!
+    </p> </div> </div>
+
+<br />
+
+
 
 <hr />
 
 <!-- Schedule -->
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Schedule (Eastern Time; precise times subject to revision)</h2>
   </div>
 </div>
 
 <div class="row">
     <div class="col-xs-12">
         <p>
-Monday, May 13, Morning:
-<li>Theme 1: What insights do large language models provide for the study of human language?</li>
-        </p><p>
-Monday, May 13, Afternoon:
-<li>Theme 2: What insights does the study of human language provide for large language model development?</li>
-        </p><p>
-Tuesday, May 14, Morning:
-<li>Theme 3: What key future scientific opportunities lie at the interface between the study of human language and large language model development?</li>
-        </p><p>
-Tuesday, May 14, Afternoon <em>(in-person only)</em>:
-<li>Synthesis & General Discussion</li>
-        </p><p>
-Specific timing information will be available soon.
-        </p>
-    </div>
-</div>
+<b>Monday, May 13:</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<!-- <thead> -->
+<!--   <tr> -->
+<!--     <th class="tg-0lax">9:00am</th> -->
+<!--     <th class="tg-0lax">Introductory remarks</th> -->
+<!--   </tr> -->
+<!-- </thead> -->
+<tbody>
+  <tr>
+    <td class="tg-0lax"><b>9:00–9:30am</b></td>
+    <td class="tg-0lax"><b>General opening remarks for the workshop</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>9:30am–12:30pm</b></td>
+    <td class="tg-0lax"><b>Theme 1: What insights do large language models provide for the study of human language?</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:30–9:35am</td>
+    <td class="tg-0lax">Introductory remarks for Theme 1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:35–10:55am</td>
+    <td class="tg-0lax">Talks</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:55–11:10am</td>
+    <td class="tg-0lax">Break</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">11:10–11:50am</td>
+    <td class="tg-0lax">Moderated commentary session</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">11:50am–12:30pm</td>
+    <td class="tg-0lax">Moderated panel discussion including all
+    speakers and commentators from the theme</td>
+  </tr>   
+  <tr>
+    <td class="tg-0lax"><b>12:30pm–2:00pm</b></td>
+    <td class="tg-0lax"><b>Lunch Break</b></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax"><b>2:00–5:30pm</b></td>
+    <td class="tg-0lax"><b>Theme 2: What insights does the study of human language provide for large language model development?</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:00–2:05pm</td>
+    <td class="tg-0lax">Introductory remarks for Theme 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:05–3:25pm</td>
+    <td class="tg-0lax">Talks</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:25–3:40pm</td>
+    <td class="tg-0lax">Break</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">3:40–4:20pm</td>
+    <td class="tg-0lax">Moderated commentary session</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">4:20–5:00pm</td>
+    <td class="tg-0lax">Moderated panel discussion including all
+    speakers and commentators from the theme</td>
+  </tr>   
+</tbody>
+</table>
+
+<b>Tuesday, May 14:</b>
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><b>9:00am–12:00pm</b></td>
+    <td class="tg-0lax"><b>Theme 3: What key future scientific opportunities lie at the interface between the study of human language and large language model development?</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:00–9:05am</td>
+    <td class="tg-0lax">Introductory remarks for Theme 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:05–10:25am</td>
+    <td class="tg-0lax">Talks</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:25–10:40am</td>
+    <td class="tg-0lax">Break</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">10:40–11:20am</td>
+    <td class="tg-0lax">Moderated commentary session</td>
+  </tr>  
+  <tr>
+    <td class="tg-0lax">11:20am–12:00pm</td>
+    <td class="tg-0lax">Moderated panel discussion including all
+    speakers and commentators from the theme</td>
+  </tr>   
+  <tr>
+    <td class="tg-0lax"><b>12:00pm–1:30pm</b></td>
+    <td class="tg-0lax"><b>Lunch Break</b></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax"><b>1:30–2:30pm</b></td>
+    <td class="tg-0lax"><b>Summative talks and closing</b></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 <hr />
 
