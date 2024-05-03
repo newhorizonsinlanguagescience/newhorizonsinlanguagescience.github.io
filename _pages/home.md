@@ -73,10 +73,10 @@ acknowledgements: ""
     remain unsolved, and what key new opportunities are offered by the
     rapidly advancing landscape!
 </p><p>
-    One goal of this workshop is to produce a set of working papers 
+    One goal of this workshop is to produce a report 
     that can help guide the future of research in language science.
     Online participants will have an opportunity to pose questions and discuss with each other, 
-    which will form part of the collected materials to steer the working papers.
+    which will form part of the collected materials to inform this report.
 </p>
 <p></p>
 <a
