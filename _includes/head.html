@@ -5,19 +5,15 @@
 
   <meta name="keywords" content={{ page.categories }}>
 
-  <link rel="icon" href="nsf_logo.jpg" type="image/jpg">
-
-  {% if page.favicon %}
+  <link rel="icon" href="{{ page.favicon | prepend:site.baseurl }}" type="image/jpg">
   <link rel="shortcut icon" href="{{ page.favicon | prepend:site.baseurl }}">
-  {% endif %}
-
 
   <title>{{ page.urltitle }}</title>
   <meta name="description" content="{{site.description}}">
 
   <!--Open Graph Related Stuff-->
   <meta property="og:title" content="{{page.title}}"/>
-  <meta property="og:url" content="https://nsf-language.github.io/"/>
+  <meta property="og:url" content="https://newhorizonsinlanguagescience.github.io/"/>
   <meta property="og:description" content="{{site.description}}"/>
   <meta property="og:site_name" content="{{page.urltitle}}"/>
   <meta property="og:image" content=""/>
