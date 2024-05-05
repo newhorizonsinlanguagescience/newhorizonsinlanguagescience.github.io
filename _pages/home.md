@@ -95,7 +95,7 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax"><b>Talks</b> by <a
     href="https://baulab.info/">David Bau</a>, <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>,
     <a
-    href="https://en.cognitive.huji.ac.il/people/ariel-goldstein">Ariel
+    href="https://miriamhavin.wixsite.com/interactlab/blank-3">Ariel
     Goldstein</a>, and <a href="https://www.cs.cmu.edu/~lwehbe/">Leila Wehbe</a></td>
   </tr>
   <tr>
@@ -279,11 +279,11 @@ the workshop, hosted for public access (link coming soon).
     </div>
   </div>
   <div class="col-xs-6 col-lg-4">
-    <a href="https://en.cognitive.huji.ac.il/people/ariel-goldstein">
+    <a href="https://miriamhavin.wixsite.com/interactlab/blank-3">
       <img class="people-pic" src="https://media.licdn.com/dms/image/C4E03AQEBe4RlgFwcxQ/profile-displayphoto-shrink_800_800/0/1659734482819?e=2147483647&v=beta&t=SvngEkx4mUVw3YcU77Ue3gP7Ncd1nc-uA414_0MNtnY">
     </a>
     <div class="people-name">
-      <a href="https://en.cognitive.huji.ac.il/people/ariel-goldstein">Ariel Goldstein</a>
+      <a href="https://miriamhavin.wixsite.com/interactlab/blank-3">Ariel Goldstein</a>
       <h6>Hebrew University</h6>
     </div>
   </div>
@@ -298,7 +298,7 @@ the workshop, hosted for public access (link coming soon).
   </div>
   <div class="col-xs-6 col-lg-4">
     <a href="https://anna-ivanova.net/">
-      <img class="people-pic" src="https://anna-ivanova.net/authors/admin/avatar_hu25f4a9e666d17c082b8a8549985ea89e_3122326_270x270_fill_q75_lanczos_center.jpg">
+      <img class="people-pic" src="https://anna-ivanova.net/authors/admin/avatar_huac969c89d5ddcf24f945bfdcc1546a2d_3098113_270x270_fill_q75_lanczos_center.jpg">
     </a>
     <div class="people-name">
       <a href="https://anna-ivanova.net/">Anna Ivanova</a>
