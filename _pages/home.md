@@ -88,15 +88,33 @@ the workshop, hosted for public access (link coming soon).
   </tr>
   <tr>
     <td class="tg-0lax">9:30–9:35am</td>
-    <td class="tg-0lax">Introductory remarks for Theme 1</td>
+    <td class="tg-0lax">
+    <a href="https://cogandbrainlab.web.illinois.edu/">Kara Federmeier</a>: Introductory remarks for Theme 1
+    </td>
   </tr>
   <tr>
-    <td class="tg-0lax">9:35–10:55am</td>
-    <td class="tg-0lax"><b>Talks</b> by <a
-    href="https://baulab.info/">David Bau</a>, <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>,
-    <a
-    href="https://miriamhavin.wixsite.com/interactlab/blank-3">Ariel
-    Goldstein</a>, and <a href="https://www.cs.cmu.edu/~lwehbe/">Leila Wehbe</a></td>
+    <td class="tg-0lax">9:35–9:55am</td>
+    <td class="tg-0lax">
+    <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>: Large Language Models as distributional baselines for human language processing research
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:55–10:15am</td>
+    <td class="tg-0lax">
+    <a href="https://www.cs.cmu.edu/~lwehbe/">Leila Wehbe</a>: Learning representations of complex meaning in the human brain
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:15–10:35am</td>
+    <td class="tg-0lax">
+    <a href="https://miriamhavin.wixsite.com/interactlab/blank-3">Ariel Goldstein</a>: Deep Modeling as (more) Than (just) Cognitive Framework 
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:35–10:55am</td>
+    <td class="tg-0lax">
+    <a href="https://baulab.info/">David Bau</a>: Locating Neural Functions and Facts
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">10:55–11:10am</td>
@@ -115,7 +133,7 @@ the workshop, hosted for public access (link coming soon).
     speakers and commentators from the theme</td>
   </tr>   
   <tr>
-    <td class="tg-0lax"><b>12:30pm–2:00pm</b></td>
+    <td class="tg-0lax"><b>12:30–2:00pm</b></td>
     <td class="tg-0lax"><b>Lunch Break</b></td>
   </tr>
     <tr>
@@ -124,14 +142,33 @@ the workshop, hosted for public access (link coming soon).
   </tr>
   <tr>
     <td class="tg-0lax">2:00–2:05pm</td>
-    <td class="tg-0lax">Introductory remarks for Theme 2</td>
+    <td class="tg-0lax">
+    <a href="https://nlp.stanford.edu/~manning/">Christopher Manning</a>: Introductory remarks for Theme 2
+    </td>
   </tr>
   <tr>
-    <td class="tg-0lax">2:05–3:25pm</td>
-    <td class="tg-0lax"><b>Talks</b> by <a
-    href="https://rycolab.io/">Ryan Cotterell</a>, <a
-    href="https://najoung.kim/">Najoung Kim</a>, <a
-    href="https://rtmccoy.com/">Tom McCoy</a>, and <a href="https://ai.meta.com/people/1396973444287406/adina-williams/">Adina Williams</a></td>
+    <td class="tg-0lax">2:05–2:25pm</td>
+    <td class="tg-0lax">
+    <a href="https://rtmccoy.com/">Tom McCoy</a>: Using Insights from Linguistics to Understand and Guide Large Language Models
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:25–2:45pm</td>
+    <td class="tg-0lax">
+    <a href="https://najoung.kim/">Najoung Kim</a>: Linguistic tests as unit tests for AI systems
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:45–3:05pm</td>
+    <td class="tg-0lax">
+    <a href="https://ai.meta.com/people/1396973444287406/adina-williams/">Adina Williams</a>: The shifting landscape of LM evaluation
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:05–3:25pm</td>
+    <td class="tg-0lax">
+    <a href="https://rycolab.io/">Ryan Cotterell</a>: A Formal Perspective on Language Modeling
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">3:25–3:40pm</td>
@@ -163,15 +200,33 @@ the workshop, hosted for public access (link coming soon).
   </tr>
   <tr>
     <td class="tg-0lax">9:00–9:05am</td>
-    <td class="tg-0lax">Introductory remarks for Theme 3</td>
+    <td class="tg-0lax">
+    <a href="https://www.mit.edu/~rplevy/">Roger Levy</a>: Introductory remarks for Theme 3
+    </td>
   </tr>
   <tr>
-    <td class="tg-0lax">9:05–10:25am</td>
-    <td class="tg-0lax"><b>Talks</b> by <a
-    href="https://gbegus.github.io/">Gasper Begus</a>, <a
-    href="https://psychology.princeton.edu/people/adele-goldberg">Adele
-    Goldberg</a>, <a href="https://www.cs.utexas.edu/~huth/">Alex
-    Huth</a>, and <a href="https://anna-ivanova.net/">Anna Ivanova</a></td>
+    <td class="tg-0lax">9:05–9:25am</td>
+    <td class="tg-0lax">
+    <a href="https://psychology.princeton.edu/people/adele-goldberg">Adele Goldberg</a>: Compositionality in natural language and LLMs
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:25–9:45am</td>
+    <td class="tg-0lax">
+    <a href="https://anna-ivanova.net/">Anna Ivanova</a>: Dissociating Language and Thought in Large Language Models
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:45–10:05am</td>
+    <td class="tg-0lax">
+    <a href="https://gbegus.github.io/">Gasper Begus</a>: Interpretability techniques for scientific discovery
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:05–10:25am</td>
+    <td class="tg-0lax">
+    <a href="https://www.cs.utexas.edu/~huth/">Alex Huth</a>: Mapping and decoding language representations in human cortex
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">10:25–10:40am</td>
@@ -192,7 +247,7 @@ the workshop, hosted for public access (link coming soon).
     speakers and commentators from the theme</td>
   </tr>   
   <tr>
-    <td class="tg-0lax"><b>12:00pm–1:30pm</b></td>
+    <td class="tg-0lax"><b>12:00–1:30pm</b></td>
     <td class="tg-0lax"><b>Lunch Break</b></td>
   </tr>
     <tr>
@@ -516,6 +571,12 @@ the workshop, hosted for public access (link coming soon).
 <!-- Motivation -->
 <div class="row" id="motivation">
   <div class="col-xs-12">
+    <h2>Motivation</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
     <p>
     This is a workshop dedicated to interdisciplinary connections
     between today’s large language models, language structure, and
@@ -564,6 +625,23 @@ the workshop, hosted for public access (link coming soon).
     workshop offers interdisciplinary talks and discussion spanning
     the fields of machine learning & natural language processing,
     linguistics, neuroscience, and cognitive science.</p>
+  </div>
+</div>
+
+<hr />
+
+<!-- Abstracts -->
+<div class="row" id="abstracts">
+  <div class="col-xs-12">
+    <h2>Abstracts</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    Coming soon.
+    </p>
   </div>
 </div>
 
