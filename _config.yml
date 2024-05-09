@@ -1,5 +1,6 @@
 title: "NSF Language Science Workshop"
 description: "New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language"
+url: "https://newhorizonsinlanguagescience.github.io"  
 baseurl: ""
 markdown: kramdown
 include: ["_pages"]
