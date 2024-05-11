@@ -260,7 +260,7 @@ the workshop, hosted for public access (link coming soon).
     href="https://nlp.stanford.edu/~manning/">Christopher Manning</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><b>2:30–2:40pm</b></td>
+    <td class="tg-0lax"><b>2:30–2:45pm</b></td>
     <td class="tg-0lax"><b>Closing remarks by NSF leadership</b></td>
   </tr>
 </tbody>
