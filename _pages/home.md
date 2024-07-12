@@ -26,7 +26,7 @@ following three themes:
 <li><b>What key future scientific opportunities lie at the interface between the study of human language and large language model development?</b></li>
 </ul>
 </p><p>
-<a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank">
+<!-- <a href="https://nsf.zoomgov.com/webinar/register/WN_sNu3mKvZSdadFvccnv_MJQ" target="_blank">
 <button><b>Register here</b></button></a>
 to join us via Zoom on <b>May 13 and 14</b> to learn more about recent advances, 
 open questions, challenges, and opportunities in this rapidly advancing landscape! 
@@ -35,7 +35,13 @@ which will form part of the collected materials to inform a subsequent
 written report to help guide the future of research in language science.
 </p><p>
 Talks will be recorded and, following
-the workshop, hosted for public access (link coming soon).
+the workshop, hosted for public access (link coming soon). -->
+<a href="https://www.youtube.com/playlist?list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts" target="_blank">
+<button><b>Click here</b></button></a>
+to watch the workshop recordings! 
+<br>
+<br>
+Specific talks can also be accessed via the 📹 icons next to the scheduled speakers.
 </p>
 </div>
 </div>
@@ -97,24 +103,28 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax">
     <a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a>: 
     <a href="#bergen">Large Language Models as distributional baselines for human language processing research</a>
+    <a href="https://www.youtube.com/watch?v=vTjdO3bkJwE&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">9:55–10:15am</td>
     <td class="tg-0lax">
     <a href="https://www.cs.cmu.edu/~lwehbe/">Leila Wehbe</a>: <a href="#wehbe">Learning representations of complex meaning in the human brain</a>
+    <a href="https://www.youtube.com/watch?v=hnPLapmCJwI&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">10:15–10:35am</td>
     <td class="tg-0lax">
     <a href="https://miriamhavin.wixsite.com/interactlab/blank-3">Ariel Goldstein</a>: <a href="#goldstein">Deep modeling as (more) than (just) cognitive framework</a>
+    <a href="https://www.youtube.com/watch?v=Q7VG08VYqt4&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">10:35–10:55am</td>
     <td class="tg-0lax">
     <a href="https://baulab.info/">David Bau</a>: <a href="#bau">Locating neural functions and facts</a>
+    <a href="https://www.youtube.com/watch?v=Pj72GJbW3Os&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
@@ -126,12 +136,16 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax"><b>Moderated commentary session</b> with 
     <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel
     Fernandez</a>, <a href="https://tallinzen.net/">Tal Linzen</a>,
-    and <a href="http://languagestats.com/jonwillits/about.html">Jon Willits</a></td>
+    and <a href="http://languagestats.com/jonwillits/about.html">Jon Willits</a>
+    <a href="https://www.youtube.com/watch?v=Pz1Gx1VlS3g&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>  
   <tr>
     <td class="tg-0lax">11:50am–12:30pm</td>
     <td class="tg-0lax"><b>Moderated panel discussion</b> including all
-    speakers and commentators from the theme</td>
+    speakers and commentators from the theme
+    <a href="https://www.youtube.com/watch?v=3a-kbjQY9nw&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>   
   <tr>
     <td class="tg-0lax"><b>12:30–2:00pm</b></td>
@@ -151,24 +165,28 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax">2:05–2:25pm</td>
     <td class="tg-0lax">
     <a href="https://rtmccoy.com/">Tom McCoy</a>: <a href="#mccoy">Using insights from linguistics to understand and guide Large Language Models</a>
+    <a href="https://www.youtube.com/watch?v=0-xziFCzc8c&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">2:25–2:45pm</td>
     <td class="tg-0lax">
     <a href="https://najoung.kim/">Najoung Kim</a>: <a href="#kim">Linguistic tests as unit tests for AI systems</a>
+    <a href="https://www.youtube.com/watch?v=nt5T_R837z0&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">2:45–3:05pm</td>
     <td class="tg-0lax">
     <a href="https://ai.meta.com/people/1396973444287406/adina-williams/">Adina Williams</a>: <a href="#williams">The shifting landscape of LM evaluation</a>
+    <a href="https://www.youtube.com/watch?v=lGQPjaVaCCU&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">3:05–3:25pm</td>
     <td class="tg-0lax">
     <a href="https://rycolab.io/">Ryan Cotterell</a>: <a href="#cotterell">A formal perspective on language modeling</a>
+    <a href="https://www.youtube.com/watch?v=9uETQL3jPes&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
@@ -179,12 +197,16 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax">3:40–4:20pm</td>
     <td class="tg-0lax"><b>Moderated commentary session</b> with commentators
     <a href="https://mahowak.github.io/">Kyle Mahowald</a>, <a
-    href="https://annargrs.github.io/">Anna Rogers</a>, and <a href="https://psych.wisc.edu/staff/rogers-timothy-t/">Timothy Rogers</a></td>
+    href="https://annargrs.github.io/">Anna Rogers</a>, and <a href="https://psych.wisc.edu/staff/rogers-timothy-t/">Timothy Rogers</a>
+    <a href="https://www.youtube.com/watch?v=KUxGMqAtN7s&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>  
   <tr>
     <td class="tg-0lax">4:20–5:00pm</td>
     <td class="tg-0lax"><b>Moderated panel discussion</b> including all
-    speakers and commentators from the theme</td>
+    speakers and commentators from the theme
+    <a href="https://www.youtube.com/watch?v=LwJ5-CtYAPc&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>   
 </tbody>
 </table>
@@ -209,24 +231,28 @@ the workshop, hosted for public access (link coming soon).
     <td class="tg-0lax">9:05–9:25am</td>
     <td class="tg-0lax">
     <a href="https://psychology.princeton.edu/people/adele-goldberg">Adele Goldberg</a>: <a href="#goldberg">Compositionality in natural language and LLMs</a>
+    <a href="https://www.youtube.com/watch?v=x48AiDPs7Zw&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">9:25–9:45am</td>
     <td class="tg-0lax">
     <a href="https://anna-ivanova.net/">Anna Ivanova</a>: <a href="#ivanova">Dissociating language and thought in Large Language Models</a>
+    <a href="https://www.youtube.com/watch?v=mc3RA3APsD8&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">9:45–10:05am</td>
     <td class="tg-0lax">
     <a href="https://gbegus.github.io/">Gasper Begus</a>: <a href="#begus">Interpretability techniques for scientific discovery</a>
+    <a href="https://www.youtube.com/watch?v=Di-nSQy2wak&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">10:05–10:25am</td>
     <td class="tg-0lax">
     <a href="https://www.cs.utexas.edu/~huth/">Alex Huth</a>: <a href="#huth">Mapping and decoding language representations in human cortex</a>
+    <a href="https://www.youtube.com/watch?v=vUvXKqulCz4&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
     </td>
   </tr>
   <tr>
@@ -240,12 +266,16 @@ the workshop, hosted for public access (link coming soon).
     href="https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/">Antonios
     Anastasopoulus</a>, <a
     href="https://lauragwilliams.github.io/">Laura Gwilliams</a>, and
-    <a href="https://ishita-dg.github.io/">Ishita Dasgupta</a> </td>
+    <a href="https://ishita-dg.github.io/">Ishita Dasgupta</a>
+    <a href="https://www.youtube.com/watch?v=11iZ1v3hNmo&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>  
   <tr>
     <td class="tg-0lax">11:20am–12:00pm</td>
     <td class="tg-0lax"><b>Moderated panel discussion</b> including all
-    speakers and commentators from the theme</td>
+    speakers and commentators from the theme
+    <a href="https://www.youtube.com/watch?v=fDa5GFXu9uA&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>   
   <tr>
     <td class="tg-0lax"><b>12:00–1:30pm</b></td>
@@ -257,7 +287,9 @@ the workshop, hosted for public access (link coming soon).
     <a href="https://cogandbrainlab.web.illinois.edu/">Kara
     Federmeier</a>, <a href="https://www.mit.edu/~rplevy/">Roger
     Levy</a>, and <a
-    href="https://nlp.stanford.edu/~manning/">Christopher Manning</a></td>
+    href="https://nlp.stanford.edu/~manning/">Christopher Manning</a>
+    <a href="https://www.youtube.com/watch?v=Va1LZ-FNaoM&list=PLaTQnvGIKBXqo8Lcl82KptxY6zJMpGmts">📹</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax"><b>2:30–2:45pm</b></td>
