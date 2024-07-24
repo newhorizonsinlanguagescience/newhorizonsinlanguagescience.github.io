@@ -750,7 +750,7 @@ Specific talks can also be accessed via the 📹 icons next to the scheduled spe
 <!-- NSF -->
 <div class="row" id="nsf">
   <div class="col-xs-12">
-    <p>With Support from the Linguistics, Robust Intelligence, and Science of Learning and Augmented Intelligence Programs at NSF.</p>
+    <p>With Support from the Linguistics, Robust Intelligence, and Science of Learning and Augmented Intelligence Programs at NSF. This event is part of a two workshop series supported by the NSF. Follow the link below to learn more about and watch the recordings of the <a href="https://www.isu-pacelab.org/workshop-ai-text-production">Workshop on AI Text Production</a>.</p>
   </div>
   <div class="col-xs-12">
     <center>
